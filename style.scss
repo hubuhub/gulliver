@@ -28,8 +28,6 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-    background-color: #FDFEC1;
-    max-width: 100vw;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -154,10 +152,6 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 70vh;
 }
 
 .masthead {
@@ -263,10 +257,6 @@ nav {
     padding: 0.1em 1em;
     font-size: 22px;
     font-style: italic;
-    display: block;
-    color: #131313;
-    margin-left: 10vw;
-    width: 80vw;
   }
 
   .comments {
