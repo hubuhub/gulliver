@@ -2,8 +2,8 @@
 published: true
 layout: post
 photobg: /viezd2.jpeg
-breadtitle: null
-heading: null
+breadtitle: Как организовать выездную регистрацию самостоятельно
+heading: Как организовать выездную регистрацию самостоятельно
 ---
 #Как устроить выездную регистрацию самостоятельно#
 
