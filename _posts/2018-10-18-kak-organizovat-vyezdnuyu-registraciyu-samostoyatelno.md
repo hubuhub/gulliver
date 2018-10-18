@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-photobg: /images/ыаф.jpg
+photobg: /viezd2.jpeg
 breadtitle: null
 heading: null
 ---
