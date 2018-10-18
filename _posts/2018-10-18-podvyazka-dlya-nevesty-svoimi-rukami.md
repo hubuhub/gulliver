@@ -2,7 +2,7 @@
 layout: post
 title: Подвязка для невесты своими руками - традиция украшения | GR
 description: Читайте в нашей статье: что такое подвязка невесты, для чего нужна и как сделать своими руками | GR
-photobg: /images/s1200.jpg
+photobg: 
 breadtitle:
 heading:
 ---
