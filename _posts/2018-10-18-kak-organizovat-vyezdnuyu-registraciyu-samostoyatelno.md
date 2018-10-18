@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 photobg: /images/ыаф.jpg
 breadtitle: null
