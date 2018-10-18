@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Подвязка для невесты своими руками - традиция украшения | GR
-description: 
+description: 13
 photobg: /images/s1200.jpg
 breadtitle: Подвязка для невесты своими руками 
 heading: Подвязка для невесты своими руками
