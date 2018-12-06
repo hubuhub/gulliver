@@ -2,7 +2,7 @@
 layout: post 
 title: Что такое штендер, виды этих рекамных конструкций | GR 
 description: Читайте в нашей статье о том что такое штендер и какие существуют виды этих рекламных конструкций | GR
-photobg: '/images/shtender.jpg'
+photobg: '/images/shtender.png'
 breadtitle: 'Что такое штендер'
 heading: 'Что такое штендер'
 
