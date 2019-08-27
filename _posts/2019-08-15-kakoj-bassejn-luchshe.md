@@ -2,7 +2,7 @@
 layout: post 
 title: Какой бассейн лучше купить - каркасный или надувной | GR
 description: Узнайте, что лучше купить - каркасный или надувной бассейн, какие плюсы и минусы каждого из них | GR
-photobg: '/images/1222.jpg'
+photobg: '/images/kakoj-bassejn-luchshe_1.jpg'
 breadtitle: 'Какой бассейн лучше'
 heading: 'Какой бассейн лучше'
 --- 
