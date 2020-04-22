@@ -2,7 +2,7 @@
 layout: post 
 title: Работа без опыта, можно ли и как найти такую вакансию | GR
 description: Мы расскажем можно ли найти вакансию на работу без опыта и устроиться | GR
-photobg: /images/rabota-bez-opyta.png
+photobg: /images/rabota-bez-opyta.jpg
 breadtitle: 'Работа без опыта'
 heading: 'Работа без опыта'
 --- 
