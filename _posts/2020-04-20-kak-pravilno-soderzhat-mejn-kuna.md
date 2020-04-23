@@ -2,7 +2,7 @@
 layout: post 
 title: Как правильно содержать мейн куна в квартире, в частном доме, на даче | GR
 description: Мы расскажем как правильно содержать мейн куна, и сколько стоит содержание животного | GR
-photobg: /images/kak-soderzhat-mejn-kuna.jpg
+photobg: /images/mejn-kun-kak-soderzhat.jpg
 breadtitle: 'Как содержать мейн куна'
 heading: 'Как содержать мейн куна'
 --- 
